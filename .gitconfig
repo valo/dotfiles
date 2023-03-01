@@ -1,0 +1,4 @@
+[alias]
+	cm = commit
+	st = status
+	di = diff
